@@ -1,4 +1,4 @@
-Schema of all 5 Tables used-
+/*Schema of all 5 Tables used-*/
 
 CREATE TABLE users (
     id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
